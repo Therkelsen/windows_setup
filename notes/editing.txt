@@ -1,0 +1,54 @@
+colors
+
+me: C72222
+peter: F146C7
+victor: A954C9
+daniel: FF691F
+anders: FB973E
+beltoft: 246ADE
+pingo: 229AC7
+carl: 74A2C4
+tim: 822479
+daniels friend: 80F06A
+
+to do: 
+create 1920 × 1080 60fps sequence
+rough cut everything
+insert music
+fine cut
+
+add effects
+add subtitles
+(others left/right, me middle)
+(gray first, then pop in)
+
+remove breathing on mic:
+audio effect > dynamics > AutoGate
+
+extra bass on gunshots: 3 - 12dB
+
+hard limit audio:
+audio track mixer > arrow down > amplitude and compression > hard limiter
+Dialogue: -12dB
+Music: -24dB
+Sound Effects: -30dB
+
+eq scooping on music:
+parametric equalizer:
+1500Hz -4dB Q=0.4
+
+clean up audio
+
+color grade everything (research more)
+Lumetri:
+- Adjust blacks until the bottom of Waveform (Luma) is close to 0
+- Adjust whites until the top of Waveform (Luma) is close to 255
+- Adjust shadows to -25
+- Fix whitebalance with dropper or temp/tint, colors in Parade (RGB) should be about even
+- Play with saturation
+
+
+
+remember 31 secs extra black screen
+
+RENDER AND REWATCH A FEW TIMES BEFORE POSTING

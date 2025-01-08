@@ -1,0 +1,16 @@
+**Game mode**
+Windows key > type "Game Mode" > click "Game Mode settings" > turn on "Game Mode"
+
+**Focus Assist**
+Windows key > type "Focus Assist" > click "Focus Assist" > under "Automatic Rules" turn on "When im playing a game", and "when im using an app in full screen"
+
+**Hardware Accelerated GPU scheduling**
+Windows key > open "Graphics settings" > Turn on "Hardware-accelerated GPU scheduling"
+
+**Ultimate Power Mode**
+Windows key > open "cmd" as admin > type in `powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61` and hit enter
+
+Windows key > open "Power & Sleep Settings" > click "Additional power settings" > select "Ultimate Performance"
+
+**High Performance mode**
+Windows key > type "Nvidia control panel" > click "Nvidia control panel" > click "manage 3d settings" > click "Global Settings" > under the "Texture Filtering - Quality" option, select "High Performance"
